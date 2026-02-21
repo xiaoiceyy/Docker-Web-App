@@ -8,7 +8,8 @@ wordpress安装页面访问成功
 <img width="635" height="645" alt="image" src="https://github.com/user-attachments/assets/1a7516bc-55eb-4ac2-a0f9-801db9333a63" />
 
 成功进入wordpress
-<img width="2543" height="1245" alt="image" src="https://github.com/user-attachments/assets/61a3c12e-7390-4777-a30e-9517122c1eec" />
+<img width="770" height="415" alt="image" src="https://github.com/user-attachments/assets/8df9bc65-0ee1-405c-8733-62090d25a8df" />
+
 <img width="1226" height="665" alt="image" src="https://github.com/user-attachments/assets/e2572601-7ef8-4d7c-aa24-59ca32e7ba38" />
 
 nginx成功代理：访问nginx的代理端口会跳到xiaoiceyy的站
